@@ -28,11 +28,11 @@ dependencies:
   # 国产swiper
   flutter_swiper: ^1.1.6
   # 缓存图片 官方推荐
-  cached_network_image: ^0.7.0
+  cached_network_image: ^1.1.1
   # 这个必须要 缓存图片用
   path_provider: ^0.5.0+1
   # 日期要用 表单里
-  intl: ^0.15.8
+  intl: ^0.16.0
   # 设备id
   flutter_udid: ^1.0.0
   # 图片选择器
@@ -42,9 +42,9 @@ dependencies:
   # 官方webview
   webview_flutter: ^0.3.5+3
   # 微信分享
-  fluwx: ^0.6.1
+  fluwx: ^1.1.0
   # 高级版本高德地图
-  amap_base: ^0.3.4
+  amap_base: ^0.3.5
   # badge
   # badge: ^0.0.3
 
